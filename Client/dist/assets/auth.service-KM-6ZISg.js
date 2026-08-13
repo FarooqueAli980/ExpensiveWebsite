@@ -1,0 +1,1 @@
+import{e as o}from"./index-YUf_V699.js";const a=s=>o.post("/auth/forgot-password",s),e=(s,t)=>o.post(`/auth/reset-password/${s}`,t),i=s=>o.post("/auth/resend-verification",s);export{i as a,a as f,e as r};

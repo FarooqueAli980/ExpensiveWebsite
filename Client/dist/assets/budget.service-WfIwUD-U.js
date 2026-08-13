@@ -1,0 +1,1 @@
+import{e}from"./index-YUf_V699.js";const u=()=>e.get("/budgets"),d=t=>e.post("/budgets",t),a=(t,s)=>e.put(`/budgets/${t}`,s),o=t=>e.delete(`/budgets/${t}`),c=(t,s)=>e.get(`/budgets/summary/${t}/${s}`);export{u as a,d as c,o as d,c as g,a as u};

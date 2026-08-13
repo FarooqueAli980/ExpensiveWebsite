@@ -1,0 +1,1 @@
+import{e as t}from"./index-YUf_V699.js";const s=()=>t.get("/categories"),r=e=>t.post("/categories",e),g=(e,a)=>t.put(`/categories/${e}`,a),c=e=>t.delete(`/categories/${e}`);export{r as c,c as d,s as g,g as u};
